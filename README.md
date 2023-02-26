@@ -1,5 +1,8 @@
 
-### Olá! Eu sou o Thiago Martins 😊
+### Olá! Eu sou o Thiago Martins 😊 <br/>
+
+##
+
 
 ![Thiago Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMartins11&show_icons=true&theme=dracula) 
 
@@ -14,9 +17,6 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMartins11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-Cursando Desenvolvimento de sistemas na Etec zona leste
 
 ## Contato:
 
