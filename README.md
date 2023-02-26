@@ -1,8 +1,7 @@
-### Hi there 👋
 
-### Olá! Eu sou o Thiago Martins 👋
+### Olá! Eu sou o Thiago Martins 😊
 
-![Thiago Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMartins11&show_icons=true&theme=dracula)
+![Thiago Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMartins11&show_icons=true&theme=dracula) 
 
 ## Tecnologias que eu uso e estou aprendendo
 
@@ -13,6 +12,9 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMartins11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Cursando Desenvolvimento de sistemas na Etec zona leste
 
